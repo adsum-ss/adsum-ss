@@ -69,9 +69,12 @@ Currently...
 
 ---
 
-
-![adsum's GitHub stats](https://github-readme-stats.vercel.app/api?username=adsum-ss&show_icons=true&theme=merko)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adsum-ss&theme=merko&background=000000)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=adsum-ss&show_icons=true&theme=merko" width="500" height="200"/>
+</a>
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=adsum-ss&theme=merko&background=000000" width="500" height="200"/>
+</a>
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
