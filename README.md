@@ -30,7 +30,7 @@ Currently...
   <a href="https://twitter.com/SSanli_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-   <a href="slhttnsanli@gmail.com">
+   <a href="mailto:slhttnsanli@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
