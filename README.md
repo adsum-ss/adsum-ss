@@ -2,7 +2,7 @@
   <img src="https://img.freepik.com/free-photo/future-artificial-intelligence-robot-cyborg_31965-6980.jpg?w=996" width="600" height="300"/>
 </div>
 
-Selahattin Şanlı
+S.Sanli
 -
 Data Scientist / Data Analyst
 
