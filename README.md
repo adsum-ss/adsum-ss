@@ -6,7 +6,7 @@ S.Sanli
 -
 Data Scientist / Data Analyst
 
-Currently....
+Currently...
 -
 - 🔭 Data Scientist / Mentor at Clarusway IT School
 - 🌱 Exploring practical applications of machine learning
