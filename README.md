@@ -8,7 +8,7 @@ Data Scientist / Data Analyst
 
 Currently...
 -
-- 🔭 Data Scientist / Mentor at Clarusway IT School
+- 🔭 Data Scientist / SQL Instructor
 - 🌱 Exploring practical applications of machine learning
 - 🔥 Passionate about coding
 - 👯 Eager to collaborate
