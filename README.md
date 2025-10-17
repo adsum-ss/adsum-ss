@@ -18,7 +18,7 @@ Currently...
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/selahattin%C5%9Fanl%C4%B1/">
+  <a href="https://www.linkedin.com/in/ssanli/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/selahattinsanli">
